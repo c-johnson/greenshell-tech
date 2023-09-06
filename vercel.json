@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/pitch(.*)",
+      "source": "/pitch",
       "destination": "/pitch.pdf"
     }
   ]
